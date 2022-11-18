@@ -62,6 +62,9 @@ body {
     gap: .7rem;
 }
 .team .splash { 
+    background: none;
+    outline: none;
+    cursor: pointer;
     color: var(--adding);
     font-family: 'Cursed Timer ULiL', sans-serif;
     border: 2px solid;
